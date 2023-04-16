@@ -37,9 +37,7 @@ package algorithms.medium;
 
     Follow up: Can you solve it using O(1) (i.e. constant) memory? */
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 public class LeetCode142LinkedListCycleTwo {
